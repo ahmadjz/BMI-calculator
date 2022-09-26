@@ -1,4 +1,4 @@
-name: BMI Calcuator
+name: BMI-Calcuator
 
 on:
   push:
